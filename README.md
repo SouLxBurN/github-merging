@@ -1,2 +1,4 @@
 # github-merging
-Testing github merge strategies
+Testing Github merge strategies.
+
+Lets start with a single commit.
